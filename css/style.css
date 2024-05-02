@@ -1,0 +1,73 @@
+#primeiro{
+	background-color:black;
+	height:3vw;
+}
+#segundo{
+	background-color:gray;
+	height:6vw;
+	margin-top:-10px;
+}
+#logo{
+	margin-top:4vw;
+}
+#navbarNavDropdown{
+	margin-left:20vw;
+	margin-top:4vw;
+	
+}
+#white{
+	color:white;
+}
+#whit{
+	color:gray;
+}
+#x{
+	margin-top:-12px;
+}
+#btn{
+	margin-left:20vw;
+	margin-right:20vw;
+	margin-top:-80vw;
+}
+#azul{
+	background-color:blue;
+	height:9vw;
+	
+}
+#preto{
+	background-color:black;
+	height:18vw;
+}
+#pt{
+	color:white;
+	font-size:20px;
+	padding-top:4vw;
+	margin-left:10vw;
+}
+#bt{
+	color:white;
+	background-color:black;
+
+	margin-left:40vw;
+	margin-right:48px;
+	height:3vw;
+	margin-top:-30px;
+	padding:12px;
+	
+}
+#move{
+	margin-left:50vw;
+}
+#pr{
+color:white;
+font-size:36px;	
+padding-top:4vw;
+margin-left:20vw;
+}
+#text{
+	color:white;
+	font-size:15px;
+	margin-left:50vw;
+	margin-top:-110px
+
+}
